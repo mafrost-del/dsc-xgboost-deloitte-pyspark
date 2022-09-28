@@ -1,4 +1,4 @@
-# Migrate XGBoost Model to Pyspark
+# Migrate XGBoost Model to PySpark
 
 
 ### Objectives
